@@ -130,7 +130,7 @@ body{
 }
 
 .dog4f{
- transform: translateX(-50%); 
+ transform: translateX(-12%); 
 }
 
 
@@ -260,9 +260,9 @@ body{
   color: var(--lavender-light);
 }
 
-.dog4f{
+/* .dog4f{
  transform: translateX(-12%); 
-}
+} */
 
 
 
