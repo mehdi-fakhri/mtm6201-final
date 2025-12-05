@@ -242,6 +242,16 @@ body{
 }
 
 
+/* testing */
+
+
+       .dog4-fix {
+       transform: translateX(-12%); 
+          }
+
+
+/* --- */
+
 
 
 .pet-section-adopt {
