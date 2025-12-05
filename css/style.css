@@ -129,14 +129,10 @@ body{
   background-color: var(--gray-light);
 }
 
-/* testing */
-
 .dog4f{
  transform: translateX(-50%); 
 }
 
-
-/* --- */
 
 .pet-card {
   display: flex;
@@ -264,6 +260,9 @@ body{
   color: var(--lavender-light);
 }
 
+.dog4f{
+ transform: translateX(-50%); 
+}
 
 
 
