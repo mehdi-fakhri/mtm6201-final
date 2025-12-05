@@ -129,6 +129,15 @@ body{
   background-color: var(--gray-light);
 }
 
+/* testing */
+
+.dog4-fix {
+ transform: translateX(-12%); 
+}
+
+
+/* --- */
+
 .pet-card {
   display: flex;
   flex-direction: column;
@@ -240,18 +249,6 @@ body{
 .pet-section-adopt .pet-img-smaller {
   max-height: 85%;
 }
-
-
-/* testing */
-
-
-       .dog4-fix {
-       transform: translateX(-12%); 
-          }
-
-
-/* --- */
-
 
 
 .pet-section-adopt {
