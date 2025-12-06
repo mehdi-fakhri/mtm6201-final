@@ -22,4 +22,4 @@ This is my final project for MTM6201, showcasing my skills in HTML, CSS, Bootstr
 - Stock images noted in the `images` folder.  
 
 ## Published Site
-[https://mehdi-fakhri.github.io/midterm-6201/](https://mehdi-fakhri.github.io/midterm-6201/)
+[https://mehdi-fakhri.github.io/midterm-6201/](https://mehdi-fakhri.github.io/mtm6210-fianl/)
