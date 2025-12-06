@@ -19,7 +19,7 @@ This is my final project for MTM6201, showcasing my skills in HTML, CSS, Bootstr
 - **Bootstrap 5.3.3**  
 - **Font Awesome 6.5.1**  
 - **Google Fonts – Irish Grover**  
-- Stock images noted in the `images` folder.  
+- Stock **images** included in the images folder. Specific sources are not recorded. 
 
 ## Published Site
 [https://mehdi-fakhri.github.io/mtm6201-final/](https://mehdi-fakhri.github.io/mtm6201-final/)
